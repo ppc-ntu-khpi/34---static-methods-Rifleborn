@@ -46,7 +46,7 @@
 [![Run on Repl.it](https://repl.it/badge/github/ppc-ntu-khpi/identifiers-types-starter)](https://repl.it/github/ppc-ntu-khpi/identifiers-types-starter) [![Gitter](https://badges.gitter.im/PPC-SE-2020/OOP.svg)](https://gitter.im/PPC-SE-2020/OOP?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 # Виконані завдання
 ## 2. Перетворити шестизначне число, подане у десятковій системі числення у двійкову, восьмеричну та шістнадцятиричну систему (метод ```Calculate``` має повернути рядок - список чисел через кому)
-
+<img src="https://github.com/ppc-ntu-khpi/34---static-methods-Rifleborn/blob/master/screen/1.png" width="100%"/>
 ## 2. Перетворити шестизначне число, подане у десятковій системі числення у двійкову, восьмеричну та шістнадцятиричну систему (метод ```Calculate``` має повернути рядок - список чисел через кому)
 
 ## 2. Перетворити шестизначне число, подане у десятковій системі числення у двійкову, восьмеричну та шістнадцятиричну систему (метод ```Calculate``` має повернути рядок - список чисел через кому)
