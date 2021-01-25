@@ -1,3 +1,4 @@
+## ЗВІТ ДО ПРАКТИЧНОЇ В САМОМУ КІНЦІ
 # Практична робота "Створення і використання статичних методів"
 Цей репозиторій містить стартовий код для виконання практичної роботи, який містить заготовки двох класів, якідемонструють структуру проекту для виконання завдань "обчислювального характеру"
 <img src="https://github.com/ppc-ntu-khpi/identifiers-types-starter/blob/master/computation.png" width="100%"/>
@@ -54,4 +55,5 @@
 <img src="https://github.com/ppc-ntu-khpi/34---static-methods-Rifleborn/blob/master/screen/2.1.png" width="100%"/>  
 Приклад коли false:
 <img src="https://github.com/ppc-ntu-khpi/34---static-methods-Rifleborn/blob/master/screen/2.2.png" width="100%"/>  
-## 2. Перетворити шестизначне число, подане у десятковій системі числення у двійкову, восьмеричну та шістнадцятиричну систему (метод ```Calculate``` має повернути рядок - список чисел через кому)
+## 11. Перевірити чи задане слово є анаграмою іншого заданого слова (метод Task3 має повернути булевське значення)
+<img src="https://github.com/ppc-ntu-khpi/34---static-methods-Rifleborn/blob/master/screen/3.png" width="100%"/>  
